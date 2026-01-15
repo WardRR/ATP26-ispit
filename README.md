@@ -83,3 +83,5 @@ https://www.youtube.com/watch?v=ODpB9-MCa5s
 
 Dodana dokumentacoija I GITHUB pages
 
+novi commit
+
