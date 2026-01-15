@@ -71,6 +71,6 @@ Citat:
 
 — Donald Norman
 
-[Changelog](ATP26-ispit\CHANGELOG.md)
+[Changelog]([ATP26-ispit\CHANGELOG.md](https://github.com/WardRR/ATP26-ispit/blob/main/LICENSE.md))
 
 [License](\LICENSE.md)
