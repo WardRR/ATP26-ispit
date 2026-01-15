@@ -71,3 +71,6 @@ Citat:
 
 — Donald Norman
 
+[Changelog]( \CHANGELOG.md)
+
+[License]( \LICENSE.md)
